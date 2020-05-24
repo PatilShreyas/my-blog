@@ -1,7 +1,6 @@
 +++
 avatar = "/images/profile.jpg"
 bio = "Know more about me here: https://shreyaspatil.dev"
-draft = true
 featured = true
 title = "Shreyas Patil"
 [[social]]
