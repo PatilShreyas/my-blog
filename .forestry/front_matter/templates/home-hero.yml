@@ -1,6 +1,7 @@
 ---
 label: Home Hero
 hide_body: true
+display_field: Test
 fields:
 - name: Test
   type: text
