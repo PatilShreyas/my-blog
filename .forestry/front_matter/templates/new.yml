@@ -19,3 +19,4 @@ fields:
   - type: file
     name: image
     label: image
+    default: "/images/profile.jpg"
