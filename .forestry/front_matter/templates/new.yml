@@ -1,0 +1,21 @@
+---
+label: new
+hide_body: true
+fields:
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: text
+    name: heading
+    label: heading
+  - type: text
+    name: maxWidthPX
+    label: maxWidthPX
+- type: field_group
+  name: seo
+  label: seo
+  fields:
+  - type: file
+    name: image
+    label: image
