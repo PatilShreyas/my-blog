@@ -16,15 +16,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: Data
-- type: directory
-  path: content/authors
-  label: Authors
-  create: all
-  match: "**/_index.md"
-  templates:
-  - author
 - type: directory
   path: config/_default
   label: Config
