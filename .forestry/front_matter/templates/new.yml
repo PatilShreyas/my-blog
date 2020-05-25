@@ -20,3 +20,10 @@ fields:
     name: image
     label: image
     default: "/images/profile.jpg"
+  - name: myname
+    type: text
+    config:
+      required: false
+    label: myname
+    description: enter
+    default: hru
