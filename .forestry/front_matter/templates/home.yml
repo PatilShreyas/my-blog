@@ -7,5 +7,3 @@ fields:
   config: {}
   template: home-hero
   label: Hero
-pages:
-- config/_default/home_test.yaml
