@@ -2,12 +2,12 @@
 label: Home Hero
 hide_body: true
 fields:
-- name: heading
+- name: Test
   type: text
   config:
     required: false
-  label: Heading
-  description: The text displayed in the hero
+  label: Test
+  description: test test
 - name: maxWidthPX
   type: number
   label: Max Width
