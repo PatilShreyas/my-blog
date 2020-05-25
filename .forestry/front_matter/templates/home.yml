@@ -5,5 +5,5 @@ fields:
 - name: hero
   type: include
   config: {}
-  template: home-hero
+  template: new
   label: Hero
